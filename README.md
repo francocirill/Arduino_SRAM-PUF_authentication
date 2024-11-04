@@ -13,6 +13,7 @@ This repository contains the implementation of SRAM-PUF (Physical Unclonable Fun
 ### Prerequisites
 
 - [Arduino IDE](https://www.arduino.cc/en/software) installed.
+- requiremnts.txt installed
 - A compatible Arduino board (tested on Arduino Uno).
 - Basic knowledge of Arduino programming and hardware setup.
 

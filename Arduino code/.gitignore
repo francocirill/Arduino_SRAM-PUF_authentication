@@ -1,0 +1,7 @@
+*.lst
+*.o
+.vscode/*
+build/**
+.sconsign.dblite
+buildenv/*
+.vscode/settings.json
